@@ -1,0 +1,4 @@
+INSERT INTO customers (name, email, phone_number, address, date_of_birth)
+VALUES 
+('John Doe', 'john.doe@example.com', '1234567890', '123 Main St', '1990-01-01'),
+('Jane Smith', 'jane.smith@example.com', '0987654321', '456 Elm St', '1985-05-05');
